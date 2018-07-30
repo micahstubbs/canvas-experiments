@@ -1,0 +1,8 @@
+{
+  "name": "canvas-experiments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:micahstubbs/canvas-experiments.git",
+  "author": "@micahstubbs <micah.stubbs@gmail.com>",
+  "license": "MIT"
+}
